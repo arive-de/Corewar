@@ -4,13 +4,19 @@ Corewar is a programming game created by D. G. Jones and A. K. Dewdney in which 
 
 # The Team
 
-• Alix Rive-Decaillot
+• Alix Rive-Decaillot ~ arive-de
 
-• Gaspard Schaetz
+• Gaspard Schaetz ~ ggschaetz
 
-• Manon Kantzer
+• Manon Kantzer ~ makantzer
 
-• Yohann Benoit
+• Yohann Benoit ~ hindikah
+
+## How to use it ?
+
+First you'll need to write a .s file with a set of assembly instructions. You can just use one of the many warriors in the ./champs directory. Then you'll have to compile it using the asm binary. Then just execute the corewar binary with your warrior(s) as arguments.
+
+This was the final project of the Algorithm branch.
 
 # Compiling and running
 
